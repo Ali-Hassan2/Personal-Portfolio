@@ -9,7 +9,7 @@ const NavBar = () =>{
     return(
         <nav className='mb-20 flex items-center justify-between py-6'>
             <div className='flex flex-shrink-0 items-center'>
-                <h2>AW</h2>
+                <h2>AH</h2>
             </div>
             <div className='m-8 flex items-center justify-center gap-5'>
                 <FaLinkedin/>
