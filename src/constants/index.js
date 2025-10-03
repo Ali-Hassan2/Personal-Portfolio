@@ -9,25 +9,19 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
-    year: "2024 - Present",
-    role: "Full Stack Developer",
-    company: "CodeAlpha",
-    description: `Working on developing and maintaining web applications, building interactive user interfaces, and implementing back-end services. My role includes working with React.js for the front-end and Node.js for the back-end, while ensuring seamless integration with databases such as MongoDB and SQL.`,
-    technologies: ["React.js", "Node.js", "MongoDB", "SQL", "Express"],
-  },
-  {
-    year: "2023 - 2024",
-    role: "Frontend Developer",
-    company: "ShadowFox",
-    description: `Developed visually dynamic websites, focusing on user experience and responsive design. Worked with HTML, CSS, and JavaScript, implementing animations and transitions using GSAP. Optimized websites for performance, ensuring quick load times and high usability.`,
-    technologies: ["HTML", "CSS", "JavaScript", "GSAP", "AOS"],
-  },
-  {
-    year: "2022 - 2023",
-    role: "Intern Developer",
-    company: "Infosysic Byte",
-    description: `Contributed to the development of internal tools and client-facing projects. Gained experience in both front-end and back-end development, focusing on building efficient and scalable web applications. Worked closely with senior developers to implement features and fix bugs in the system.`,
-    technologies: ["React.js", "Node.js", "JavaScript", "MongoDB"],
+    year: "2025",
+    role: "Front End Developer Intern",
+    company: "cwiztech",
+    description:
+      "Worked as a Frontend Developer at CwizTech, building responsive and interactive web applications, implementing UI components, and collaborating with the team to enhance user experience and performance.",
+    technologies: [
+      "HTML",
+      "CSS",
+      "Tailwind",
+      "React.js",
+      "State Management",
+      "Api handling",
+    ],
   },
   {
     year: "2024",
@@ -40,73 +34,17 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
-    image: "https://picsum.photos/400/300?random=1", // Random Image 1
+    title: "Automobiles Parts Buying and Selling.",
+    image: "https://picsum.photos/400/300?random=12", // Random Image 12
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "A platform for buying and selling automobile parts, allowing users to list, browse, and purchase parts efficiently.",
+    technologies: ["React", "API Handling"],
   },
   {
-    title: "Task Management App",
-    image: "https://picsum.photos/400/300?random=2", // Random Image 2
-    description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
-  },
-  {
-    title: "Portfolio Website",
-    image: "https://picsum.photos/400/300?random=3", // Random Image 3
-    description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
-  },
-  {
-    title: "Blogging Platform",
-    image: "https://picsum.photos/400/300?random=4", // Random Image 4
-    description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
-  },
-  {
-    title: "Generative AI Website",
-    image: "https://picsum.photos/400/300?random=5", // Random Image 5
-    description:
-      "A website focused on generating AI content using advanced machine learning algorithms.",
-    technologies: ["HTML", "CSS", "React", "TensorFlow"],
-  },
-  {
-    title: "Netflix Clone",
-    image: "https://picsum.photos/400/300?random=6", // Random Image 6
-    description:
-      "A Netflix clone built using React and styled with modern web technologies, allowing users to browse and stream content.",
-    technologies: ["React", "CSS", "Node.js"],
-  },
-  {
-    title: "Airline Website",
-    image: "https://picsum.photos/400/300?random=7", // Random Image 7
-    description:
-      "An airline website offering flight booking, management, and user profile features.",
-    technologies: ["HTML", "CSS", "React", "Express", "MongoDB"],
-  },
-  {
-    title: "Amazon Clone",
-    image: "https://picsum.photos/400/300?random=8", // Random Image 8
-    description:
-      "An Amazon clone with features like product browsing, cart, and user account management.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
-  },
-  {
-    title: "Predictive Todo App",
-    image: "https://picsum.photos/400/300?random=9", // Random Image 9
-    description:
-      "A To-Do app enhanced with Machine Learning for task prioritization and reminders.",
-    technologies: ["Python", "Machine Learning", "Flask"],
-  },
-  {
-    title: "Tic-Tac-Toe Game",
+    title: "Hotel Booking System",
     image: "https://picsum.photos/400/300?random=10", // Random Image 10
     description:
-      "A simple Tic-Tac-Toe game built using JavaScript, with a friendly UI for playing with friends.",
+      "A web application for managing hotel room bookings, allowing users to search, book, and manage reservations seamlessly.",
     technologies: ["HTML", "CSS", "JavaScript"],
   },
   {
@@ -115,13 +53,6 @@ export const PROJECTS = [
     description:
       "A quiz game app where users can answer questions from various categories and earn scores.",
     technologies: ["HTML", "CSS", "JavaScript"],
-  },
-  {
-    title: "Insta PFP & Reel Downloader",
-    image: "https://picsum.photos/400/300?random=12", // Random Image 12
-    description:
-      "A Python app using Tkinter to download Instagram profile pictures and reels.",
-    technologies: ["Python", "Tkinter"],
   },
 ]
 
