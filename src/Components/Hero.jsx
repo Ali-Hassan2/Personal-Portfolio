@@ -4,15 +4,10 @@ import Content from "../assets/Content"
 import profilePic from "../assets/projects/kevinRushProfile.jpg"
 const Hero = () => {
   const roles = [
-    "Full Stack Developer",
-    ".NET Developer",
     "React.js Developer",
     "Frontend Engineer",
     "UI/UX Designer",
-    "DevOps Engineer",
     "Software Engineer",
-    "Technical Writer",
-    "Open Source Contributor",
   ]
   const [currentText, setCurrentText] = useState("")
   const [currentRole, setCurrentRole] = useState(0)
