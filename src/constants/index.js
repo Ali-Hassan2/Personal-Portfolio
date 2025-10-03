@@ -34,6 +34,20 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
+    title: "Beyond Ayaat",
+    image: "https://picsum.photos/400/300?random=13",
+    description:
+      "A large-scale frontend project where I am independently organizing the entire codebase, building a clean, maintainable frontend, and controlling all aspects of the UI. The team is being formed as part of this project, but I handle all frontend development and architecture.",
+    technologies: [
+      "React.js",
+      "Tailwind CSS",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "API Handling",
+    ],
+  },
+  {
     title: "Automobiles Parts Buying and Selling.",
     image: "https://picsum.photos/400/300?random=12", // Random Image 12
     description:
